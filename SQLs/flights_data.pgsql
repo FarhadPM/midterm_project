@@ -1,0 +1,3 @@
+SELECT *
+    FROM "flights"
+    TABLESAMPLE SYSTEM (1.50);
